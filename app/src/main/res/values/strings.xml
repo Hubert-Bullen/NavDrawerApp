@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NavDrawerApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="imgButton">imageBtn</string>
+    <string name="frag1">Fragment 1</string>
+    <string name="notification">Get a Notification</string>
+    <string name="wiki_url">https://en.wikipedia.org/wiki/Rickrolling</string>
+
+    <string name="lbl_you_are_at">YOU ARE AT</string>
+    <string name="btn_get_location">GET MY LOCATION</string>
+    <string name="btn_start_location_updates">START LOCATION UPDATES</string>
+    <string name="btn_stop_location_updates">STOP LOCATION UPDATES</string>
+</resources>
